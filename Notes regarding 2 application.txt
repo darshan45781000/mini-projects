@@ -1,0 +1,11 @@
+Weather App
+Go to below link they implimented complete application
+https://youtu.be/IaJqMcOMuDM
+
+
+News App
+I implimented Service worker and manifest same as Weather App
+
+FOR JAVASCRIPT AJAX CAL
+Go to below video link
+https://youtu.be/KjNXOi4Wqbk
